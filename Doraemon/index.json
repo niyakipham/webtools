@@ -1,0 +1,568 @@
+{
+    "app_version": "0.2",
+    "nsfw": false,
+    "chapters": {
+        "7930192223796905548": {
+            "volume": 1,
+            "number": 9,
+            "entries": "1225600157_0009\\d{4}",
+            "file": "8_Vol_1_Chapter_9_0.cbz",
+            "uploadDate": 1729385396000,
+            "scanlator": "Silent Hero",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "04aa0315-208b-4d86-ab6f-5f5072e2301d"
+        },
+        "2148216149516818786": {
+            "volume": 2,
+            "number": 22,
+            "entries": "1225600157_0022\\d{4}",
+            "file": "21_Vol_2_Chapter_22_0.cbz",
+            "uploadDate": 1729385523000,
+            "scanlator": "BHH-FC",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "8ce117d3-46c6-4261-a670-2a613ef3ce5b"
+        },
+        "7582358656154191266": {
+            "volume": 3,
+            "number": 35,
+            "entries": "1225600157_0035\\d{4}",
+            "file": "34_Vol_3_Chapter_35_0.cbz",
+            "uploadDate": 1729385649000,
+            "scanlator": "Weekly Manga",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "6ce29ee1-defb-4562-b96b-1dcb5597b629"
+        },
+        "-3362755964271730180": {
+            "volume": 1,
+            "number": 6,
+            "entries": "1225600157_0006\\d{4}",
+            "file": "5_Vol_1_Chapter_6_0.cbz",
+            "uploadDate": 1729385364000,
+            "scanlator": "Silent Hero",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "9eb4afd1-3d78-48b3-8d09-09ecfaf9b1d6"
+        },
+        "8073138480420358298": {
+            "volume": 2,
+            "number": 18,
+            "entries": "1225600157_0018\\d{4}",
+            "file": "17_Vol_2_Chapter_18_0.cbz",
+            "uploadDate": 1729385483000,
+            "scanlator": "alo8.com",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "bfe9cfb5-7c91-40da-8717-9c15b2c95269"
+        },
+        "-4158395497308787806": {
+            "volume": 2,
+            "number": 32,
+            "entries": "1225600157_0032\\d{4}",
+            "file": "31_Vol_2_Chapter_32_0.cbz",
+            "uploadDate": 1729385617000,
+            "scanlator": "Weekly Manga",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "cffc5884-5365-41bf-bf8a-ddb50803db9a"
+        },
+        "-5969293273612387265": {
+            "volume": 1,
+            "number": 15,
+            "entries": "1225600157_0015\\d{4}",
+            "file": "14_Vol_1_Chapter_15_0.cbz",
+            "uploadDate": 1729385454000,
+            "scanlator": "Silent Hero",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "5c7dc30d-319f-4685-b395-b64a2aadccec"
+        },
+        "7233145526539664566": {
+            "volume": 2,
+            "number": 27,
+            "entries": "1225600157_0027\\d{4}",
+            "file": "26_Vol_2_Chapter_27_0.cbz",
+            "uploadDate": 1729385571000,
+            "scanlator": "Weekly Manga",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "0302c2f1-f4e3-4a73-83c4-5a7fda969cd3"
+        },
+        "-1418478842703580099": {
+            "volume": 2,
+            "number": 29,
+            "entries": "1225600157_0029\\d{4}",
+            "file": "28_Vol_2_Chapter_29_0.cbz",
+            "uploadDate": 1729385590000,
+            "scanlator": "Weekly Manga",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "2b3fd038-4ef0-4c87-86ff-a23837fc3e58"
+        },
+        "3907400179322368627": {
+            "volume": 2,
+            "number": 26,
+            "entries": "1225600157_0026\\d{4}",
+            "file": "25_Vol_2_Chapter_26_0.cbz",
+            "uploadDate": 1729385561000,
+            "scanlator": "BHH-FC",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "2a252b87-f4dd-48b4-b3ef-aaa2614a07a5"
+        },
+        "-1375411733054968754": {
+            "volume": 1,
+            "number": 12,
+            "entries": "1225600157_0012\\d{4}",
+            "file": "11_Vol_1_Chapter_12_0.cbz",
+            "uploadDate": 1729385425000,
+            "scanlator": "Silent Hero",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "1e7bc2f3-7ad1-4940-a8d0-ba2b65fc9f7c"
+        },
+        "8589309996872616815": {
+            "volume": 2,
+            "number": 24,
+            "entries": "1225600157_0024\\d{4}",
+            "file": "23_Vol_2_Chapter_24_0.cbz",
+            "uploadDate": 1729385541000,
+            "scanlator": "BHH-FC",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "23b2bdf3-ea3a-4bde-9a7f-fcc876291c7f"
+        },
+        "-1212121062695561082": {
+            "volume": 3,
+            "number": 37,
+            "entries": "1225600157_0037\\d{4}",
+            "file": "36_Vol_3_Chapter_37_0.cbz",
+            "uploadDate": 1729385669000,
+            "scanlator": "Weekly Manga",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "0c056f6d-e9e2-4125-b7b6-4f1be1753525"
+        },
+        "-7147640771234217488": {
+            "volume": 1,
+            "number": 13,
+            "entries": "1225600157_0013\\d{4}",
+            "file": "12_Vol_1_Chapter_13_0.cbz",
+            "uploadDate": 1729385435000,
+            "scanlator": "Silent Hero",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "32bf62ec-989d-47a2-a4d4-fe09099f0435"
+        },
+        "-5025945150677902702": {
+            "volume": 2,
+            "number": 21,
+            "entries": "1225600157_0021\\d{4}",
+            "file": "20_Vol_2_Chapter_21_0.cbz",
+            "uploadDate": 1729385514000,
+            "scanlator": "alo8.com",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "17229361-4b76-44db-82f4-1b94b37c0af2"
+        },
+        "-4524195393730149842": {
+            "volume": 3,
+            "number": 38,
+            "entries": "1225600157_0038\\d{4}",
+            "file": "37_Vol_3_Chapter_38_0.cbz",
+            "uploadDate": 1729385681000,
+            "scanlator": "Weekly Manga",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "7e86ffaf-b1af-4284-884f-59356e9faa43"
+        },
+        "-8616659057549292031": {
+            "volume": 2,
+            "number": 31,
+            "entries": "1225600157_0031\\d{4}",
+            "file": "30_Vol_2_Chapter_31_0.cbz",
+            "uploadDate": 1729385606000,
+            "scanlator": "Weekly Manga",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "bb1545e0-2ca9-4b81-ba42-e3b171d02f3d"
+        },
+        "8585520547614764664": {
+            "volume": 2,
+            "number": 19,
+            "entries": "1225600157_0019\\d{4}",
+            "file": "18_Vol_2_Chapter_19_0.cbz",
+            "uploadDate": 1729385493000,
+            "scanlator": "alo8.com",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "198ea4b2-5331-4867-806d-8e4538a51b30"
+        },
+        "-2153037048175147050": {
+            "volume": 3,
+            "number": 42,
+            "entries": "1225600157_0042\\d{4}",
+            "file": "41_Vol_3_Chapter_42_0.cbz",
+            "uploadDate": 1729385717000,
+            "scanlator": "Weekly Manga",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "8d96b9bc-7431-4685-87d1-0d75eb8c49c9"
+        },
+        "5200649666783955796": {
+            "volume": 2,
+            "number": 28,
+            "entries": "1225600157_0028\\d{4}",
+            "file": "27_Vol_2_Chapter_28_0.cbz",
+            "uploadDate": 1729385580000,
+            "scanlator": "Weekly Manga",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "27fd6346-0a39-4308-992b-2d7596b1ce8d"
+        },
+        "-1554689405165182170": {
+            "volume": 2,
+            "number": 20,
+            "entries": "1225600157_0020\\d{4}",
+            "file": "19_Vol_2_Chapter_20_0.cbz",
+            "uploadDate": 1729385503000,
+            "scanlator": "alo8.com",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "4a4d7faf-9dfe-412b-aac1-171c838e9d9f"
+        },
+        "5580031503908496711": {
+            "volume": 2,
+            "number": 34,
+            "entries": "1225600157_0034\\d{4}",
+            "file": "33_Vol_2_Chapter_34_0.cbz",
+            "uploadDate": 1729385637000,
+            "scanlator": "Weekly Manga",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "2a02535d-904c-40c4-99d6-b1a5d62a06ac"
+        },
+        "-9016033854527699998": {
+            "volume": 2,
+            "number": 17,
+            "entries": "1225600157_0017\\d{4}",
+            "file": "16_Vol_2_Chapter_17_0.cbz",
+            "uploadDate": 1729385472000,
+            "scanlator": "alo8.com",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "ea98f875-b9c0-49a6-8d62-e4c507e7704b"
+        },
+        "-3008647819286368968": {
+            "volume": 2,
+            "number": 33,
+            "entries": "1225600157_0033\\d{4}",
+            "file": "32_Vol_2_Chapter_33_0.cbz",
+            "uploadDate": 1729385628000,
+            "scanlator": "Weekly Manga",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "776db1a7-8a82-4344-b547-566a8df8f399"
+        },
+        "6887573620948238858": {
+            "volume": 1,
+            "number": 4,
+            "entries": "1225600157_0004\\d{4}",
+            "file": "3_Vol_1_Chapter_4_0.cbz",
+            "uploadDate": 1729385343000,
+            "scanlator": "Silent Hero",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "31d8cc1d-96e5-468a-8229-af46bf8c668b"
+        },
+        "-3662058216679596544": {
+            "volume": 1,
+            "number": 8,
+            "entries": "1225600157_0008\\d{4}",
+            "file": "7_Vol_1_Chapter_8_0.cbz",
+            "uploadDate": 1729385386000,
+            "scanlator": "Silent Hero",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "1ed4387b-65c0-402b-a818-087f7dbafa37"
+        },
+        "4487119430387198520": {
+            "volume": 3,
+            "number": 36,
+            "entries": "1225600157_0036\\d{4}",
+            "file": "35_Vol_3_Chapter_36_0.cbz",
+            "uploadDate": 1729385659000,
+            "scanlator": "Weekly Manga",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "abb3a034-93a4-4f53-b303-61b2f755e4c7"
+        },
+        "-8346008589719872349": {
+            "volume": 1,
+            "number": 14,
+            "entries": "1225600157_0014\\d{4}",
+            "file": "13_Vol_1_Chapter_14_0.cbz",
+            "uploadDate": 1729385444000,
+            "scanlator": "Silent Hero",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "78edfe87-9954-4ba7-87a9-68f160e9c5df"
+        },
+        "-5287552751545129025": {
+            "volume": 1,
+            "number": 2,
+            "entries": "1225600157_0002\\d{4}",
+            "file": "1_Vol_1_Chapter_2_0.cbz",
+            "uploadDate": 1729385324000,
+            "scanlator": "Silent Hero",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "6de5db09-4250-4f2e-92ce-72ddf059ea95"
+        },
+        "7052786602878984418": {
+            "volume": 2,
+            "number": 30,
+            "entries": "1225600157_0030\\d{4}",
+            "file": "29_Vol_2_Chapter_30_0.cbz",
+            "uploadDate": 1729385599000,
+            "scanlator": "Weekly Manga",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "4fe908d1-b037-4082-b7d8-338db7132311"
+        },
+        "2897395342609283620": {
+            "volume": 3,
+            "number": 43,
+            "entries": "1225600157_0043\\d{4}",
+            "file": "42_Vol_3_Chapter_43_0.cbz",
+            "uploadDate": 1729385729000,
+            "scanlator": "Weekly Manga",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "5cdc3c53-0dfa-47de-af4a-4fedd45ab322"
+        },
+        "-8493127140098530943": {
+            "volume": 3,
+            "number": 45,
+            "entries": "1225600157_0045\\d{4}",
+            "file": "44_Vol_3_Chapter_45_0.cbz",
+            "uploadDate": 1729385747000,
+            "scanlator": "Weekly Manga",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "8ff23726-3152-4cf5-b560-7923563c348d"
+        },
+        "3842111263319022882": {
+            "volume": 2,
+            "number": 23,
+            "entries": "1225600157_0023\\d{4}",
+            "file": "22_Vol_2_Chapter_23_0.cbz",
+            "uploadDate": 1729385531000,
+            "scanlator": "BHH-FC",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "8f12a7b5-bb95-43e9-acea-21a8704dda4a"
+        },
+        "-1610494679144639576": {
+            "volume": 3,
+            "number": 39,
+            "entries": "1225600157_0039\\d{4}",
+            "file": "38_Vol_3_Chapter_39_0.cbz",
+            "uploadDate": 1729385689000,
+            "scanlator": "Weekly Manga",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "a8086b12-a553-4bbe-bbdd-ecd94090436f"
+        },
+        "3441563814168998201": {
+            "volume": 3,
+            "number": 44,
+            "entries": "1225600157_0044\\d{4}",
+            "file": "43_Vol_3_Chapter_44_0.cbz",
+            "uploadDate": 1729385737000,
+            "scanlator": "Weekly Manga",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "161d4bdd-79ae-4a5b-ae55-a85db56c3f02"
+        },
+        "-1383578609489178864": {
+            "volume": 1,
+            "number": 1,
+            "entries": "1225600157_0001\\d{4}",
+            "file": "0_Vol_1_Chapter_1_0.cbz",
+            "uploadDate": 1729385312000,
+            "scanlator": "Silent Hero",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "c0ddae0c-bf10-487b-aa20-5da1ab8ae211"
+        },
+        "1440792989610632219": {
+            "volume": 2,
+            "number": 25,
+            "entries": "1225600157_0025\\d{4}",
+            "file": "24_Vol_2_Chapter_25_0.cbz",
+            "uploadDate": 1729385552000,
+            "scanlator": "BHH-FC",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "d968a8cb-1ba4-49ae-b5b7-1351fd886e64"
+        },
+        "-8415384380076324736": {
+            "volume": 1,
+            "number": 10,
+            "entries": "1225600157_0010\\d{4}",
+            "file": "9_Vol_1_Chapter_10_0.cbz",
+            "uploadDate": 1729385405000,
+            "scanlator": "Silent Hero",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "3e61f654-e964-42ee-a793-56e8977e2211"
+        },
+        "-7526212376904738449": {
+            "volume": 1,
+            "number": 11,
+            "entries": "1225600157_0011\\d{4}",
+            "file": "10_Vol_1_Chapter_11_0.cbz",
+            "uploadDate": 1729385414000,
+            "scanlator": "Silent Hero",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "ec4e9675-6195-44d5-a6bc-5740b40f9bf0"
+        },
+        "-7926632420999801753": {
+            "volume": 1,
+            "number": 3,
+            "entries": "1225600157_0003\\d{4}",
+            "file": "2_Vol_1_Chapter_3_0.cbz",
+            "uploadDate": 1729385333000,
+            "scanlator": "Silent Hero",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "7d3c9f9c-38f7-4569-be73-a3d6ec7d0d81"
+        },
+        "3736740045971699014": {
+            "volume": 1,
+            "number": 16,
+            "entries": "1225600157_0016\\d{4}",
+            "file": "15_Vol_1_Chapter_16_0.cbz",
+            "uploadDate": 1729385463000,
+            "scanlator": "alo8.com",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "26602afc-386c-43f0-947b-2099488026af"
+        },
+        "-5187177088543775379": {
+            "volume": 3,
+            "number": 41,
+            "entries": "1225600157_0041\\d{4}",
+            "file": "40_Vol_3_Chapter_41_0.cbz",
+            "uploadDate": 1729385708000,
+            "scanlator": "Weekly Manga",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "7fc7858e-0230-43ce-bb52-5a800f9c49f0"
+        },
+        "-1931563717606252483": {
+            "volume": 1,
+            "number": 5,
+            "entries": "1225600157_0005\\d{4}",
+            "file": "4_Vol_1_Chapter_5_0.cbz",
+            "uploadDate": 1729385353000,
+            "scanlator": "Silent Hero",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "ea373cb4-e9c8-49e5-b881-b59bebdf92bd"
+        },
+        "1104153999139527675": {
+            "volume": 3,
+            "number": 40,
+            "entries": "1225600157_0040\\d{4}",
+            "file": "39_Vol_3_Chapter_40_0.cbz",
+            "uploadDate": 1729385699000,
+            "scanlator": "Weekly Manga",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "ce91110a-dc74-4db5-98f0-d1d7f03c039f"
+        },
+        "6978418453799127557": {
+            "volume": 1,
+            "number": 7,
+            "entries": "1225600157_0007\\d{4}",
+            "file": "6_Vol_1_Chapter_7_0.cbz",
+            "uploadDate": 1729385375000,
+            "scanlator": "Silent Hero",
+            "name": "",
+            "branch": "Tiếng Việt",
+            "url": "1e327da4-d7c8-452b-8e79-423ca0922b7a"
+        }
+    },
+    "author": "Fujiko F. Fujio",
+    "rating": -1,
+    "description": "\"Doraemon\" is the masterpiece of Fujiko F. Fujio, one of Japan's most famous mangaka duos. Doraemon, a cat-shaped robot from the future, and his best friend Nobita share a fantastical friendship. \n\nThe mysterious tools taken out of his 4th dimensional pocket made the whole of Japan laugh. Shizu-chan, Suneo, and Gian are also full of energy. The exciting and wonderful tools that give you big dreams will guide you to the heartwarming world of Doraemon.\n\n---\n - **Awarded the 1st Shogakukan Manga Award for Children in 1982** \n- **Won the Osamu Tezuka Cultural Grand Prize in 1997**\n\nIn March 2008, Japan's Foreign Ministry appointed Doraemon as the nation's first \"Anime Ambassador\".",
+    "alt_titles": ["डोरेमोन"],
+    "source": "MANGADEX",
+    "title": "Doraemon",
+    "url": "e36da8b0-feca-46dd-9120-d5dc2f3feae8",
+    "tags": [
+        {
+            "title": "Adventure",
+            "key": "87cc87cd-a395-47af-b27a-93258283bbc6"
+        },
+        {
+            "title": "Award Winning",
+            "key": "0a39b5a1-b235-4886-a747-1d05d216532d"
+        },
+        {
+            "title": "School Life",
+            "key": "caaa44eb-cd40-4177-b930-79d3ef2afe87"
+        },
+        {
+            "title": "Delinquents",
+            "key": "da2d50ca-3018-4cc0-ac7a-6b7d472a29ea"
+        },
+        {
+            "title": "Drama",
+            "key": "b9af3a63-f058-46de-a9a0-e0c13906197a"
+        },
+        {
+            "title": "Animals",
+            "key": "3de8c75d-8ee3-48ff-98ee-e20a65c86451"
+        },
+        {
+            "title": "Slice of Life",
+            "key": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9"
+        },
+        {
+            "title": "Comedy",
+            "key": "4d32cc48-9f00-4cca-9b5a-a839f0764984"
+        },
+        {
+            "title": "Time Travel",
+            "key": "292e862b-2d17-4062-90a2-0356caa4ae27"
+        },
+        {
+            "title": "Action",
+            "key": "391b0423-d847-456f-aff0-8b0cfc03066b"
+        },
+        {
+            "title": "Sci-Fi",
+            "key": "256c8bd9-4904-4360-bf4f-508a76d67183"
+        },
+        {
+            "title": "Fantasy",
+            "key": "cdc58593-87dd-415e-bbc0-2ec27bf404cc"
+        }
+    ],
+    "public_url": "https://mangadex.org/title/e36da8b0-feca-46dd-9120-d5dc2f3feae8",
+    "cover": "https://uploads.mangadex.org/covers/e36da8b0-feca-46dd-9120-d5dc2f3feae8/336e7d29-d8dd-4357-b9fb-10b14e2ae933.jpg.256.jpg",
+    "title_alt": "डोरेमोन",
+    "content_rating": "SAFE",
+    "cover_entry": "cover.jpg",
+    "id": 3818947205998021438,
+    "state": "FINISHED",
+    "app_id": "kotatsu-dl",
+    "cover_large": "https://uploads.mangadex.org/covers/e36da8b0-feca-46dd-9120-d5dc2f3feae8/336e7d29-d8dd-4357-b9fb-10b14e2ae933.jpg",
+    "authors": ["Fujiko F. Fujio"]
+}
